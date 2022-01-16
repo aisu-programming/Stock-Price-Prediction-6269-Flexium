@@ -1,0 +1,8 @@
+*.pth
+
+venv
+.vscode
+
+*.pyc
+*.npy
+.~lock.*
